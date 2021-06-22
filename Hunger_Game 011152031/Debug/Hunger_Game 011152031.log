@@ -1,0 +1,23 @@
+﻿Build started 3/16/2019 11:51:55 PM.
+     1>Project "D:\Visual Studio\Hunger_Game 011152031\Hunger_Game 011152031\Hunger_Game 011152031.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt hunger_game.cpp
+         hunger_game.cpp
+     1>d:\visual studio\hunger_game 011152031\hunger_game 011152031\hunger_game.cpp(589): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>d:\visual studio\hunger_game 011152031\hunger_game 011152031\hunger_game.cpp(610): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>d:\visual studio\hunger_game 011152031\hunger_game 011152031\hunger_game.cpp(105): warning C4715: 'GetGhostXY_X' : not all control paths return a value
+     1>d:\visual studio\hunger_game 011152031\hunger_game 011152031\hunger_game.cpp(120): warning C4715: 'GetGhostXY_Y' : not all control paths return a value
+     1>d:\visual studio\hunger_game 011152031\hunger_game 011152031\hunger_game.cpp(155): warning C4715: 'getFood1Y' : not all control paths return a value
+     1>d:\visual studio\hunger_game 011152031\hunger_game 011152031\hunger_game.cpp(172): warning C4715: 'getFood2X_up' : not all control paths return a value
+     1>d:\visual studio\hunger_game 011152031\hunger_game 011152031\hunger_game.cpp(199): warning C4715: 'getFood2X_down' : not all control paths return a value
+     1>d:\visual studio\hunger_game 011152031\hunger_game 011152031\hunger_game.cpp(227): warning C4715: 'getFood2X_middle' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual Studio\Hunger_Game 011152031\Debug\Hunger_Game 011152031.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Visual Studio\Hunger_Game 011152031\Debug\Hunger_Game 011152031.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual Studio\Hunger_Game 011152031\Debug\Hunger_Game 011152031.lib" /MACHINE:X86 Debug\hunger_game.obj
+         Hunger_Game 011152031.vcxproj -> D:\Visual Studio\Hunger_Game 011152031\Debug\Hunger_Game 011152031.exe
+     1>Done Building Project "D:\Visual Studio\Hunger_Game 011152031\Hunger_Game 011152031\Hunger_Game 011152031.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.74

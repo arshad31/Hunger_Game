@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hunger_Game 011152031", "Hunger_Game 011152031\Hunger_Game 011152031.vcxproj", "{919BECE1-8CD7-4791-B214-66CC18D3AD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{919BECE1-8CD7-4791-B214-66CC18D3AD89}.Debug|Win32.ActiveCfg = Debug|Win32
+		{919BECE1-8CD7-4791-B214-66CC18D3AD89}.Debug|Win32.Build.0 = Debug|Win32
+		{919BECE1-8CD7-4791-B214-66CC18D3AD89}.Release|Win32.ActiveCfg = Release|Win32
+		{919BECE1-8CD7-4791-B214-66CC18D3AD89}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
